@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.card {
+  display: flex;
+  background-color: lightblue;
+  border: 1px solid black;
+  border-radius: 1px;
+  flex-direction: column;
+}
+.card-action {
+  display: flex;
+  justify-content: space-between;
+}
